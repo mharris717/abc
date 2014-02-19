@@ -1,0 +1,8 @@
+{"version":3,
+ "file":"compiled.map",
+ "sources":
+ ["src/lt/plugins/abc.cljs"],
+ "lineCount":11,
+ "mappings":
+ ";AAAA;;AAIA,6BAAA,yBAAA,tDAAMA,mDAAaC,GAAG,YAAA,JAAGA;;AACzB,qCAAA,rCAACD;AAH0B,CAAA,IAAA;AAGxB,yBAAA,qBAAA,AAAkB,QAAA,tDAIPE,2CAASD,eAAG,KAAA,JAAGA;;AAE7B,iCAAA,jCAACC",
+ "names":["lt.plugins.abc/my-double-f", "x", "lt.plugins.abc/my-quad"]}
